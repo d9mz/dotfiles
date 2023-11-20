@@ -8,3 +8,5 @@ yet more dotfiles that somebody somewhere might find useful
 - `lm_sensors` - for cpu status
 - i3blocks
 - i3
+- picom
+- dunst
